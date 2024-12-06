@@ -14,3 +14,5 @@ This is a simple RESTful API for managing recipes, built using Node.js, Express.
 - Mongoose (for MongoDB object modeling)
 - CORS (to handle cross-origin requests)
 - Body-Parser (to parse incoming request bodies)
+
+https://documenter.getpostman.com/view/39168825/2sAY4rGRB6
